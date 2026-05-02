@@ -23,7 +23,7 @@ pkg install proot debootstrap wget curl git tar -y
 
 ### 2. 克隆仓库并执行安装脚本
 
-cd ~ && git clone https://github.com/WaryKitten2012/termux-linux-installer.git && cp ~/termux-linux-installer/install.sh && bash install.sh
+cd ~ && git clone https://gh-proxy.com/https://github.com/WaryKitten2012/termux-linux-installer.git && cp ~/termux-linux-installer/install.sh && bash install.sh
 
 ### 3. 启动Linux容器
 
