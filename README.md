@@ -1,6 +1,6 @@
 # Termux-Linux-Installer
 
-本项目提供在 **Android Termux** 环境中快速部署 **Ubuntu** 和 **Debian** 容器的自动化脚本。所有 rootfs 均基于 `debootstrap` 构建，确保纯净与轻量
+本项目提供在 **Android Termux** 环境中快速部署 **Linux** 容器的自动化脚本。所有 rootfs 均基于 `debootstrap` 构建，确保纯净与轻量
 
 ## 🚀 特性
 
