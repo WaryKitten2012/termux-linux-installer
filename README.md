@@ -7,6 +7,8 @@
 - **Linux发行版**: Ubuntu、Debian
 - **版本可选**: 支持 Ubuntu 26.04 (resolute)、24.04 (noble)、22.04 (jammy) 及 Debian 13 (trixie)、12 (bookworm)、14 (testing)、sid (unstable)
 - **架构适配**: 目前仅支持arm64
+- **proot目录挂载**： 默认挂载tmp目录
+- **容器桌面**： 可以使用termux x11，tigervnc显示桌面
 
 ## 📦 安装指南 (Termux)
 
