@@ -111,7 +111,7 @@ generate_start_script() {
     chmod +x start_${DISTRO}.sh
     chmod +x uninstall_${DISTRO}.sh
     cp ~/termux-linux-installer/config_${DISTRO}_${SUITE}.sh ~/termux-linux/ubuntu/root
-    chmod +x ~/termux-linux/ubuntu/config_${DISTRO}_${SUITE}.sh
+    chmod +x ~/termux-linux-installer/ubuntu/config_${DISTRO}_${SUITE}.sh
 }
 
 # 主流程
