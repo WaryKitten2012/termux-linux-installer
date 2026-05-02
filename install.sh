@@ -124,7 +124,7 @@ main() {
     info "Installation complete!"
     echo -e "${GREEN}To start $DISTRO, run: ./start_${DISTRO}.sh${NC}"
     echo -e "${GREEN}To remove $DISTRO run: ./uninstall.sh"
-    echo -e "${GREEN}To config $DISTRO at $DISTRO run: ./config_${DISTRO}_${SUITE}.sh
+    echo -e "${GREEN}To config $DISTRO at $DISTRO run: ./config_${DISTRO}_${SUITE}.sh"
 }
 
 main "$@"
