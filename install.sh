@@ -107,7 +107,7 @@ build_rootfs() {
 generate_start_script() {
     local script_file="$HOME/start_${DISTRO}.sh"
     cp ~/termux-linux-installer/uninstall_${DISTRO}.sh ~/
-    cp ~/termux-linux/start_${DISTRO}.sh ~/
+    cp ~/termux-linux-installer/start_${DISTRO}.sh ~/
     chmod +x start_${DISTRO}.sh
     chmod +x uninstall_${DISTRO}.sh
     cp ~/termux-linux-installer/config_${DISTRO}_${SUITE}.sh ~/termux-linux/ubuntu/root
