@@ -31,7 +31,7 @@ cd ~ && git clone https://github.com/WaryKitten2012/termux-linux-installer.git &
 如果你安装的是debian,请执行以下命令启动：
 ./start_debian.sh
 
-###配置Linux容器（配置国内软件源，中文环境，命令在容器执行）
+### 配置Linux容器（配置国内软件源，中文环境，命令在容器执行）
 
 debian13容器:
 ./config_debian_trixie.sh
