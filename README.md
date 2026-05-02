@@ -33,7 +33,7 @@ cd ~ && git clone https://github.com/WaryKitten2012/termux-linux-installer.git &
 
 ###配置Linux容器（配置国内软件源，中文环境，命令在容器执行）
 
-debian13容器：
+debian13容器:
 ./config_debian_trixie.sh
 debian12容器:
 ./config_debian_bookworm.sh
